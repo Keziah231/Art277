@@ -145,3 +145,8 @@ footer {
 .home {
 	border: 1px solid white;
 }
+.cov{
+	height: fit-content;
+	display: flex;
+	justify-content: center;
+}
